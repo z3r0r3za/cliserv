@@ -1,3 +1,5 @@
+Removing this since it was moved to netools.
+
 # Clieserv
 Very simple TCP/UDP client, or TCP server.
 
